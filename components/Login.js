@@ -10,7 +10,7 @@ function Login() {
                 {/* logo */}
                 <Image
                 className='object-cover rounded-full'
-                 src='https://links.papareact.com/3pi' height={200} width={200} />
+                 src='https://p.kindpng.com/picc/s/78-785975_icon-profile-bio-avatar-person-symbol-chat-icon.png' height={200} width={200} />
                 <button onClick={authenticate}
                 className='bg-yellow-500 rounded-lg p-5 font-bold animate-pulse'>Login to the METAVERSE</button>
 
